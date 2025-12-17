@@ -38,28 +38,12 @@
 - **International Student Award:** £2,000 (reducing net fee to £15,250)
 - **Additional Opportunity:** May be eligible for 20% UH Graduate Scholarship if graduate of University of Hertfordshire undergraduate degree
 
-**Offer Status:** Academically Unconditional
-- No academic conditions to meet
-- Must pay £5,000 deposit or provide satisfactory proof of sponsorship
-- Deposit deadline for January 2026 intake: 30 November 2025
-
-**Key Requirements:**
-- English language requirement (if applicable) - IELTS or equivalent accepted
-- Student visa required for study in UK
-- CAS (Confirmation of Acceptance for Studies) will be issued after meeting conditions
-- Must comply with visa conditions including work limitations and departure requirements
-- University reserves right not to issue CAS or withdraw CAS in certain circumstances
-- Failure to obtain visa means unable to take up place at university
-
-**Payment Information:**
-- Preferred payment method: Flywire
-- Deposit includes non-refundable element if fail to register or fraudulent documentation
-- 50% of tuition fees required prior to registration
-
-**Legal Rights:**
-- Right to change mind about accepting offer within 14 days of acceptance
-- Cooling-off period allows withdrawal from contract within specified timeframe
-- Further information available in Key Facts document sent with offer
+**PRIMARY CAMPUS - College Lane Campus:**
+- **Full Address:** College Lane, Hatfield, Hertfordshire, AL10 9AB, United Kingdom
+- **Postcode:** AL10 9AB
+- **Main Reception:** +44 (0)1707 284000
+- **Campus Size:** 120 hectares (300 acres)
+- **Established:** 1952 (as Hatfield Technical College)
 
 ---
 
@@ -202,6 +186,47 @@ I systematically evaluated 5 study destinations - Sri Lanka, UK, USA, Canada, an
 | Canada | 24 months | CAD 60,000-75,000 (£35,000-45,000) | Good programs | Extreme cold, similar duration as USA | Rejected |
 | Australia | 24 months | AUD 80,000-95,000 (£42,000-50,000) | Quality education | Very expensive, far from Sri Lanka | Rejected |
 
+
+**FINAL DECISION LOGIC:**
+
+**If Cost Were No Issue:** USA (Carnegie Mellon) would be ideal - but cost is 3x UK
+**If Quality Were Equal:** Sri Lanka would be ideal - but quality gap is too significant
+**If Duration Weren't Factor:** Canada would be strong option - but 2 years too long
+
+**UK provides optimal balance:**
+- ✓ World-class quality (TEF Silver, BCS accredited)
+- ✓ Reasonable cost (1/3 of USA)
+- ✓ Efficient duration (18 months)
+- ✓ Specialized facilities (Robot House)
+- ✓ Professional recognition (BCS)
+- ✓ Manageable distance from home
+- ✓ Clear career ROI (2-3 years)
+
+**Additional UK Advantages:**
+
+**Multicultural Environment & International Exposure:**
+- **Diverse Student Body:** UK universities host students from 200+ countries, creating rich multicultural learning environment
+- **Large South Asian Community:** Significant Sri Lankan and South Asian student population provides cultural familiarity and support network
+- **Global Perspective:** Exposure to international approaches to AI and robotics through diverse classmates and faculty
+- **Cultural Adaptation:** Multicultural environment eases transition while maintaining cultural identity
+- **Professional Networks:** Build international connections valuable for future global AI collaborations
+
+**World-Class University System:**
+- **UK has 4 universities in world's top 10** (QS World Rankings 2024): Oxford (#3), Cambridge (#2), Imperial College (#6), UCL (#9)
+- **18 UK universities in global top 100** - highest concentration of top universities per capita globally
+- **World's second-best higher education system** after USA (QS Higher Education System Strength Rankings)
+- **Research Excellence:** UK produces 15.9% of world's most-cited research papers despite having only 0.9% of global population
+- **Innovation Hub:** UK ranks #4 globally in Global Innovation Index 2023
+- **AI Leadership:** UK government invested £2.6 billion in AI research and development, making it global AI research center
+
+**Quality Assurance & Standards:**
+- **Rigorous Quality Framework:** All UK universities regulated by Office for Students (OfS) ensuring consistent high standards
+- **Teaching Excellence Framework (TEF):** Government assessment ensuring quality teaching (Hertfordshire: TEF Silver)
+- **Professional Body Recognition:** Strong integration with professional bodies like BCS, ensuring industry relevance
+- **International Recognition:** UK degrees recognized and respected globally, particularly in Commonwealth countries
+
+**This is a strategic educational investment decision, not an immigration desire.** The UK happens to offer the best education value for my specific needs - specialized AI and Robotics training with hands-on facilities, completed efficiently, at reasonable cost, with international professional recognition, in a multicultural environment that provides global perspective while maintaining cultural comfort.
+
 **1. WHY NOT SRI LANKA?**
 
 **Universities I Considered:**
@@ -316,45 +341,6 @@ I systematically evaluated 5 study destinations - Sri Lanka, UK, USA, Canada, an
 - **Georgia Tech:** Excellent online program but no hands-on robotics access
 - **My Conclusion:** USA programs are excellent but don't provide proportional value for my situation
 
-**FINAL DECISION LOGIC:**
-
-**If Cost Were No Issue:** USA (Carnegie Mellon) would be ideal - but cost is 3x UK
-**If Quality Were Equal:** Sri Lanka would be ideal - but quality gap is too significant
-**If Duration Weren't Factor:** Canada would be strong option - but 2 years too long
-
-**UK provides optimal balance:**
-- ✓ World-class quality (TEF Silver, BCS accredited)
-- ✓ Reasonable cost (1/3 of USA)
-- ✓ Efficient duration (18 months)
-- ✓ Specialized facilities (Robot House)
-- ✓ Professional recognition (BCS)
-- ✓ Manageable distance from home
-- ✓ Clear career ROI (2-3 years)
-
-**Additional UK Advantages:**
-
-**Multicultural Environment & International Exposure:**
-- **Diverse Student Body:** UK universities host students from 200+ countries, creating rich multicultural learning environment
-- **Large South Asian Community:** Significant Sri Lankan and South Asian student population provides cultural familiarity and support network
-- **Global Perspective:** Exposure to international approaches to AI and robotics through diverse classmates and faculty
-- **Cultural Adaptation:** Multicultural environment eases transition while maintaining cultural identity
-- **Professional Networks:** Build international connections valuable for future global AI collaborations
-
-**World-Class University System:**
-- **UK has 4 universities in world's top 10** (QS World Rankings 2024): Oxford (#3), Cambridge (#2), Imperial College (#6), UCL (#9)
-- **18 UK universities in global top 100** - highest concentration of top universities per capita globally
-- **World's second-best higher education system** after USA (QS Higher Education System Strength Rankings)
-- **Research Excellence:** UK produces 15.9% of world's most-cited research papers despite having only 0.9% of global population
-- **Innovation Hub:** UK ranks #4 globally in Global Innovation Index 2023
-- **AI Leadership:** UK government invested £2.6 billion in AI research and development, making it global AI research center
-
-**Quality Assurance & Standards:**
-- **Rigorous Quality Framework:** All UK universities regulated by Office for Students (OfS) ensuring consistent high standards
-- **Teaching Excellence Framework (TEF):** Government assessment ensuring quality teaching (Hertfordshire: TEF Silver)
-- **Professional Body Recognition:** Strong integration with professional bodies like BCS, ensuring industry relevance
-- **International Recognition:** UK degrees recognized and respected globally, particularly in Commonwealth countries
-
-**This is a strategic educational investment decision, not an immigration desire.** The UK happens to offer the best education value for my specific needs - specialized AI and Robotics training with hands-on facilities, completed efficiently, at reasonable cost, with international professional recognition, in a multicultural environment that provides global perspective while maintaining cultural comfort.
 
 ### Q3.2: Why did you specifically choose the University of Hertfordshire?
 
@@ -990,38 +976,6 @@ This 60-credit project is where I'll specialize in an area directly relevant to 
 - Project supervisor for Masters project
 - Technical staff for equipment support
 
-**TYPICAL WEEKLY SCHEDULE (Example from Semester B):**
-
-**Monday:**
-- 9:00-11:00: Neural Networks lecture
-- 11:00-13:00: Independent study
-- 14:00-17:00: Neural Networks lab session
-
-**Tuesday:**
-- 9:00-11:00: AI Theory lecture
-- 11:00-13:00: Tutorial/discussion group
-- 14:00-18:00: Assignment work
-
-**Wednesday:**
-- 9:00-12:00: Independent study / reading
-- 13:00-15:00: Responsible Technology seminar
-- 15:00-18:00: Group project meeting
-
-**Thursday:**
-- 9:00-11:00: AI Theory lecture
-- 11:00-13:00: Lab session
-- 14:00-18:00: Assignment/project work
-
-**Friday:**
-- 9:00-12:00: Independent study
-- 13:00-17:00: Programming assignment work
-
-**Weekend:**
-- Reading, assignment work, project preparation
-- Flexible self-study
-
-**Note:** This is indicative - actual timetable released closer to term start.
-
 **WHAT MAKES THIS PROGRAM RIGOROUS:**
 
 1. **Level 7 Standard:** Postgraduate level requires:
@@ -1062,7 +1016,7 @@ This 60-credit project is where I'll specialize in an area directly relevant to 
 - Know cost-benefit of different approaches
 - Build credibility with UK Master's qualification
 
-This 18-month intensive program will transform me from a software engineer who uses AI tools to an AI specialist who designs intelligent systems.
+This 16-month intensive program will transform me from a software engineer who uses AI tools to an AI specialist who designs intelligent systems.
 
 I understand every aspect of this program structure because I've studied the programme specification document in detail and researched what each module entails.
 
@@ -1147,18 +1101,6 @@ I will return to Sri Lanka within 2-4 weeks of completing my dissertation defens
 - Apply Master's knowledge to real projects
 - Build internal credibility
 - Deliver 2-3 successful AI implementations
-
-**6-12 Months (November 2027-April 2028):**
-- Take leadership role in AI projects
-- Propose innovative AI solutions
-- Begin building reputation in Sri Lankan AI community
-- Seek promotion to Senior level if starting at mid-level
-
-**12-18 Months (May-December 2028):**
-- Achieve Senior AI Engineer or AI Architect title
-- Lead major AI implementation projects
-- Contribute to company's AI strategy
-- Start formalizing my consulting business
 
 **Phase 4: Entrepreneurial Expansion (2029-2030)**
 
@@ -1283,22 +1225,16 @@ I have comprehensive funding arrangements with multiple sources to cover all exp
 **FUNDING SOURCES:**
 
 **1. Personal Savings (Primary Source):**
-- **Amount Available:** £28,000
+- **Amount Available:** £23,091
 - **Source:** 8 years of professional work savings
 - **Evidence:** Bank statements showing consistent savings pattern
-- **Covers:** 71% of total costs
+- **Covers:** 80% of total costs
 
 **2. Family Support:**
-- **Amount:** £8,000
+- **Amount:** £4,000
 - **Source:** Parents' savings and property rental income
 - **Evidence:** Family bank statements and property documents
 - **Covers:** 20% of total costs
-
-**3. Current Employment Income:**
-- **Monthly Salary:** LKR 450,000 (~£1,125)
-- **Savings Potential:** £500/month until departure
-- **From October 2025 to January 2026:** £500 × 4 = £2,000
-- **Covers:** 5% of total costs
 
 **4. Emergency Buffer:**
 - **Additional Family Support:** £3,000 available if needed
@@ -1308,21 +1244,10 @@ I have comprehensive funding arrangements with multiple sources to cover all exp
 **FUNDING VERIFICATION:**
 
 **Bank Statements:**
-- Personal account: £28,000 current balance
-- Family account: £8,000 committed for education
+- Personal account: £23,091 current balance
 - Consistent income history over 8 years
 - No large unexplained deposits (all from salary/business income)
 
-**Income Documentation:**
-- Employment contract showing LKR 450,000 monthly salary
-- Tax returns for past 3 years
-- Payslips for past 6 months
-- Business registration for consulting work
-
-**Property Documentation:**
-- Family owns rental property generating LKR 75,000/month
-- Property valuation certificate
-- Rental agreements showing steady income
 
 **FINANCIAL MANAGEMENT PLAN:**
 
@@ -1351,45 +1276,6 @@ I have comprehensive funding arrangements with multiple sources to cover all exp
 - **Buffer:** 15-20% protection against currency fluctuation
 - **Hedging:** Will convert major amounts when rates are favorable
 
-**INCOME DURING STUDIES:**
-- **Part-time Work:** Up to 20 hours/week allowed on student visa
-- **Potential Earnings:** £8-12/hour × 20 hours × 4 weeks = £640-960/month
-- **Target:** £500/month to supplement living costs
-- **Type:** Campus jobs, tutoring, research assistance
-
-**FINANCIAL CONTINGENCY PLANS:**
-
-**If Costs Exceed Budget:**
-1. **Family Additional Support:** £3,000 available
-2. **Increase Part-time Work:** Up to visa limits
-3. **Reduce Discretionary Spending:** Cut personal expenses
-4. **Freelance Consulting:** Online work for Sri Lankan clients
-
-**If Emergency Arises:**
-1. **Family Emergency Fund:** £5,000 accessible within 48 hours
-2. **University Hardship Funds:** Available for genuine emergencies
-3. **Reduce Course Load:** (Last resort, would extend duration)
-
-**RETURN JOURNEY FUNDING:**
-- **Flight Back:** £600 (already budgeted)
-- **Shipping Belongings:** £300-500
-- **Total:** £900-1,100 (included in contingency)
-
-**FINANCIAL TRACK RECORD:**
-
-**Savings History:**
-- **2016-2020:** Saved £15,000 while working and studying
-- **2020-2022:** Saved £8,000 at Virtusa (higher salary)
-- **2022-2024:** Saved £5,000 at HCL + current role
-- **Total:** £28,000 over 8 years
-- **Pattern:** Consistent saver, not impulsive spender
-
-**No Debt:**
-- No student loans from previous education
-- No credit card debt
-- No personal loans
-- Clean financial history
-
 **COST COMPARISON VALIDATION:**
 
 **Research Sources:**
@@ -1408,7 +1294,7 @@ I have comprehensive funding arrangements with multiple sources to cover all exp
 
 **Why I'm Financially Prepared:**
 1. **8 Years of Earning:** Proven ability to manage income
-2. **Consistent Saving:** £28,000 saved over career
+2. **Consistent Saving:** £23,091 saved over career
 3. **Multiple Income Sources:** Salary + consulting + family support
 4. **Conservative Budgeting:** Built-in buffers and contingencies
 5. **No Dependencies:** No dependents to support during studies
@@ -1448,9 +1334,6 @@ I've researched extensively on multiple platforms and have identified specific p
 
 **Research Platforms Used:**
 - SpareRoom.co.uk (most popular for room shares)
-- OpenRent.com
-- Rightmove.co.uk
-- Zoopla.co.uk
 - Facebook groups: "Hertfordshire Student Accommodation"
 
 **SPECIFIC PROPERTY IDENTIFIED:**
@@ -1504,14 +1387,6 @@ I've researched extensively on multiple platforms and have identified specific p
 - **Last Active:** Recently active
 - **Verification:** Photo ID, email, and mobile verified
 
-**Availability:**
-- **Available:** Immediately
-- **Minimum Term:** 6 months
-- **Maximum Term:** No limit
-- **Short Lets:** Considered
-- **Couples:** Not allowed
-- **Pets:** Not allowed
-- **Smoking:** Allowed (though current residents don't smoke)
 
 **Why This Property is Ideal:**
 1. **Perfect Location:** 10 minutes walk to university - can't get better
@@ -1539,7 +1414,6 @@ I've researched extensively on multiple platforms and have identified specific p
 
 **Week 1-2: Temporary Accommodation**
 - **Airbnb:** £40-70 per night (£280-490 per week)
-- **Hotels in Hatfield:** Premier Inn, Travelodge (£50-80 per night)
 - **Budget:** £500-700 for 2 weeks
 
 **Purpose:**
@@ -1571,7 +1445,6 @@ I've researched extensively on multiple platforms and have identified specific p
 |--------|--------------|-----------------|--------------|-------------------|
 | **SpareRoom Property (Selected Choice)** | £425 | All bills included, furnished | 10 min walk | **£425** |
 | **Alternative Private Room** | £550-620 + £80-90 | Rent + shared bills | 15-20 min walk | **£630-710** |
-| **Private En-Suite** | £600-680 + £80 | Rent + bills, own bathroom | 15-20 min walk | **£680-760** |
 
 **Selected Option:** SpareRoom property (£425 all-inclusive, 10 minutes to campus, excellent location and value)
 
@@ -1657,19 +1530,6 @@ I've researched extensively on multiple platforms and have identified specific p
 - Train King's Cross → Hatfield (25-30 minutes)
 - Longer journey but more flight options to Heathrow
 
-**WHY I'M CONFIDENT ABOUT ACCOMMODATION:**
-
-1. **Specific Property Identified:** Found ideal SpareRoom property (Ad #18068159) - £425/month all-inclusive
-2. **Perfect Location:** 10 minutes walk to university, 3 minutes to ASDA and town center
-3. **Excellent Value:** £425 total cost - significantly lower than other private options
-4. **Student Environment:** 6-bedroom house with 8 Indian students, study-friendly atmosphere
-5. **Immediate Availability:** Can move in as soon as visa is approved
-6. **Verified Contact:** Nikhil (verified user) with good response rate for arrangements
-7. **All Bills Included:** No hidden costs or surprise bills
-8. **Multiple Backup Options:** Other private properties researched as alternatives
-9. **Budget Comfort:** £425 is well within my £660-750 monthly budget
-10. **Financial Security:** Can afford £400 deposit + £425 first month easily
-
 **I have identified my exact accommodation and will secure it immediately after visa approval - this is completely sorted.**
 
 ---
@@ -1697,28 +1557,6 @@ I have multiple strong, verifiable ties to Sri Lanka that guarantee my return af
 - **Relatives:** Large extended family network in Southern Province
 - **Social Obligations:** Regular family gatherings, cultural ceremonies, religious events
 - **Community Role:** Expected to participate in local community activities
-
-**2. PROPERTY & FINANCIAL ASSETS (Concrete Ties)**
-
-**Real Estate Ownership:**
-- **Family Home:** 3-bedroom house in Ambalantota (inherited, in my name)
-- **Land:** 2 acres of agricultural land (coconut plantation)
-- **Rental Property:** Small commercial building generating LKR 75,000/month
-- **Total Value:** Approximately LKR 15,000,000 (£37,500)
-- **Legal Responsibility:** Property management, tax payments, maintenance
-
-**Bank Accounts & Investments:**
-- **Savings Accounts:** LKR 2,500,000 in local banks
-- **Fixed Deposits:** LKR 1,800,000 earning 12% annual interest
-- **EPF (Employee Provident Fund):** LKR 3,200,000 accumulated over 8 years
-- **Insurance Policies:** Life and health insurance policies
-- **Total Financial Assets:** LKR 7,500,000+ (£18,750+)
-
-**Business Interests:**
-- **Consulting Business:** Registered sole proprietorship for software consulting
-- **Client Base:** 5 regular clients generating LKR 150,000-200,000/month
-- **Contracts:** Ongoing maintenance contracts that require my return
-- **Reputation:** Established professional network built over 8 years
 
 **3. EMPLOYMENT & CAREER TIES**
 
@@ -1761,20 +1599,6 @@ I have multiple strong, verifiable ties to Sri Lanka that guarantee my return af
 - **Festivals:** Participate in Sinhala New Year, Vesak, other cultural celebrations
 - **Music & Arts:** Appreciate Sri Lankan music, literature, arts
 - **Lifestyle:** Prefer Sri Lankan social customs and way of life
-
-**5. LEGAL & CIVIC OBLIGATIONS**
-
-**Citizenship:**
-- **Sri Lankan Citizen:** Born and raised in Sri Lanka
-- **Passport:** Sri Lankan passport, no other citizenship
-- **Voting Rights:** Registered voter, participate in elections
-- **National Service:** Completed required civic duties
-
-**Legal Responsibilities:**
-- **Property Taxes:** Annual property tax payments due
-- **Business Registration:** Annual renewals and compliance requirements
-- **Insurance Claims:** Ongoing insurance matters requiring presence
-- **Legal Documents:** Power of attorney, property deeds, contracts in my name
 
 **6. ECONOMIC INCENTIVES FOR RETURN**
 
@@ -1825,23 +1649,6 @@ I have multiple strong, verifiable ties to Sri Lanka that guarantee my return af
 - **Experience Recognition:** 8 years Sri Lankan experience may not be fully valued
 - **Cultural Barriers:** Different work culture and networking challenges
 - **Career Progression:** Slower advancement as immigrant vs established professional in Sri Lanka
-
-**9. VERIFICATION OF TIES**
-
-**Documentary Evidence:**
-- **Property Deeds:** Legal ownership documents
-- **Bank Statements:** Showing ongoing financial commitments
-- **Employment Letter:** Confirming leave of absence and return position
-- **Family Photos:** Evidence of close family relationships
-- **Business Registration:** Proof of ongoing business interests
-- **Insurance Policies:** Long-term financial commitments
-- **Tax Returns:** Showing ongoing Sri Lankan tax obligations
-
-**References:**
-- **Employer:** Can confirm return employment arrangement
-- **Family:** Parents can verify dependency and care needs
-- **Community Leaders:** Temple monks, local officials can confirm community ties
-- **Business Clients:** Can verify ongoing consulting commitments
 
 **10. LOGICAL RETURN TIMELINE**
 
