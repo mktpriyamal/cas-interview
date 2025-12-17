@@ -589,6 +589,28 @@ I spent 3 months comparing universities using:
 ---
 ## 4. COURSE DETAILS & STRUCTURE
 
+## **COURSE MODULES QUICK REFERENCE**
+
+### **PROGRAM OVERVIEW**
+- **Total Credits:** 180 credits (Standard UK Master's)
+- **Duration:** 18 months (January 2026 - July 2027)
+- **Course Code:** PECSM AIR
+- **Start Date:** January 2026 (Semester B intake)
+
+### **ALL MODULES AT A GLANCE**
+
+**YEAR 1: TAUGHT MODULES (120 Credits)**
+1. [Neural Networks and Machine Learning] - **30 credits** (7COM1033)
+2. [Theory and Practice of Artificial Intelligence] - **30 credits** (7COM1034)
+3. [Artificial Life with Robotics] - **30 credits** (7COM1032)
+4. [Team Research and Development Project] - **15 credits** (7COM1079)
+5. [Responsible Technology] - **15 credits** (7COM2001)
+
+**YEAR 2: RESEARCH PROJECT (60 Credits)**
+
+6. [Artificial Intelligence and Robotics Masters Project] - **60 credits** (7COM1086)
+---
+
 ### Q4.1: Explain your course structure in complete detail.
 
 **IMPROVED ANSWER:**
@@ -609,7 +631,7 @@ Let me walk you through the exact structure of my 18-month MSc program:
 
 **SEMESTER B (January 2026 - May 2026): 60 Credits**
 
-**Module 1: Neural Networks and Machine Learning**
+**Module 1: Neural Networks and Machine Learning** {#module-1-neural-networks-and-machine-learning-detailed}
 - **Code:** 7COM1033
 - **Credits:** 30 credits
 - **Level:** 7
@@ -638,7 +660,7 @@ Let me walk you through the exact structure of my 18-month MSc program:
 **Why Important for Me:**
 This is crucial - currently I use pre-built ML libraries without understanding internals. This module will teach me to design custom neural architectures for specific problems my future clients will face.
 
-**Module 2: Theory and Practice of Artificial Intelligence**
+**Module 2: Theory and Practice of Artificial Intelligence** {#module-2-theory-and-practice-of-artificial-intelligence-detailed}
 - **Code:** 7COM1034
 - **Credits:** 30 credits
 - **Level:** 7
@@ -671,7 +693,7 @@ Many real-world problems can't be solved by just throwing neural networks at the
 
 **SEMESTER A (September 2026 - January 2027): 60 Credits**
 
-**Module 3: Artificial Life with Robotics**
+**Module 3: Artificial Life with Robotics** {#module-3-artificial-life-with-robotics-detailed}
 - **Code:** 7COM1032
 - **Credits:** 30 credits
 - **Level:** 7
@@ -701,7 +723,7 @@ Many real-world problems can't be solved by just throwing neural networks at the
 **Why Important for Me:**
 THIS IS THE UNIQUE MODULE - most AI programs don't have this. It bridges theory to physical implementation. Critical for my goal of industrial automation and service robotics in Sri Lanka.
 
-**Module 4: Team Research and Development Project**
+**Module 4: Team Research and Development Project** {#module-4-team-research-and-development-project-detailed}
 - **Code:** 7COM1079
 - **Credits:** 15 credits
 - **Level:** 7
@@ -730,7 +752,7 @@ THIS IS THE UNIQUE MODULE - most AI programs don't have this. It bridges theory 
 **Why Important for Me:**
 Real AI projects in industry are team efforts. This develops collaboration skills and research methodology I'll need when leading AI teams at IFS, WSO2, or Virtusa.
 
-**Module 5: Responsible Technology**
+**Module 5: Responsible Technology** {#module-5-responsible-technology-detailed}
 - **Code:** 7COM2001
 - **Credits:** 15 credits
 - **Level:** 7
@@ -764,7 +786,7 @@ AI is powerful but can cause harm if misused. As I'll be implementing AI systems
 
 **SEMESTER B + C (January 2027 - July 2027): 60 Credits**
 
-**Module 6: Artificial Intelligence and Robotics Masters Project**
+**Module 6: Artificial Intelligence and Robotics Masters Project** {#module-6-artificial-intelligence-and-robotics-masters-project-detailed}
 - **Code:** 7COM1086
 - **Credits:** 60 credits (one-third of entire Master's degree)
 - **Level:** 7
